@@ -25,6 +25,8 @@ Raycast snippets are small, reusable pieces of text or code that can be quickly 
 
 ## How to Use Raycast Snippets
 
+$\frac34$
+
 Using Raycast snippets is straightforward. Once you've created or imported a snippet within the Raycast app, you can assign a specific keyword to it. This keyword acts as a trigger - whenever you type it in any application, the snippet will automatically expand in place, replacing the keyword with the full text or code of the snippet.
 
 For instance, if you have a snippet for a standard email sign-off, you can assign a keyword like `sig1`. Typing `sig1` in an email will then automatically expand to the full signature text. This feature is especially useful in coding, where you can have snippets for common code patterns or configurations.
